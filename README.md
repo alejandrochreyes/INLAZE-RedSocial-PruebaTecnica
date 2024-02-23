@@ -17,7 +17,7 @@ npm start
 
  docker-compose up
  
- 4. Lenguajes y herramientas frameworks
+ 4. Lenguajes y herramientas frameworks: 
  javascript 
  handlebars
  nodejs 
