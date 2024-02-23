@@ -24,5 +24,5 @@ npm start
  
  
 5. 
--- instalar dependencias
+-- instalar dependencias :
 npm i express express-handlebars mongoose morgan multer fs-extra errorhandler md5
