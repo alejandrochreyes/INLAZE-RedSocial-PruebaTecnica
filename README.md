@@ -7,7 +7,7 @@ Editor de codigo VISUALSTUDIO CODE
 MONGODB_URI, el uri de la base de datos mongodb
  el puerto del servidor http. Por defecto en esta api el port 3000
  
- 2. depedencias 
+ 2. dependencias 
  
  npm install
 npm run build
